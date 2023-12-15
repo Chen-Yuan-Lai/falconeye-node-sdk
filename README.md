@@ -34,7 +34,7 @@ await er.init({
 });
 ```
 
-If you initialize successfully, you will see on the terminal:
+If you initialize successfully, you will see the text on the terminal:
 
 ```bash
 initialize SDK successfully
