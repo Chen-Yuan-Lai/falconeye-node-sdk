@@ -1,6 +1,6 @@
 {
   "name": "@falconeye-tech/sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falconeye-tech/sdk.git"
+  },
+  "keywords": [
+    "falconeye",
+    "sdk",
+    "technology",
+    "api",
+    "integration",
+    "toolkit",
+    "development"
+  ],
+  "author": "Ian Lai",
   "license": "ISC"
 }
